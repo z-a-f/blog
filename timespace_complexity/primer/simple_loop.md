@@ -17,6 +17,6 @@ for (j = 0; j < M; j++) {
 
 <!--sec data-title="Answer" data-id="comp-primer-simple-loop" data-show=false ces-->
 
-Select here to see the answer: Time: O(N+M), Space: O(1)
+Time: O(N+M), Space: O(1)
 
 <!--endsec-->
