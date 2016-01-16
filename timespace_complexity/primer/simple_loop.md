@@ -13,10 +13,12 @@ for (j = 0; j < M; j++) {
 ```
 
 
-<button class="section" target="comp-primer-simple-loop" show="Show next section" hide="Hide next section"></button>
+<!--sec data-title="Example" data-id="section1" ces-->
+This is a section that is by default visible (with ```data-show=true```). You can toggle this with the button in the title. The next section is hidden by default, you can add a custom button to toggle it (see GitHub for the syntax).
 
-<!--sec data-title="Answer" data-id="comp-primer-simple-loop" data-show=false ces-->
+<button class="section" target="section2" show="Show the next  hidden section" hide="Hide the next hidden section"></button>
+<!--endsec-->
 
-Time: O(N+M), Space: O(1)
-
+<!--sec data-title="Hidden Section" data-id="section2" data-show=false ces-->
+This section can only be opened with that button.
 <!--endsec-->
