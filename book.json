@@ -2,6 +2,7 @@
     "title": "Zaf's Stuff",
     "description": "Collection of algo crap :)",
     "language": "en",
+    "direction": "ltr",
     "plugins": [
         "collapsible-menu",
         "disqus",
