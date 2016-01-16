@@ -12,5 +12,8 @@
             "shortName": "zufsstuff",
             "useIdentifier": false
         }
+    },
+    "structure": {
+        "readme": "INTRO.md"
     }
 }
