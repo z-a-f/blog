@@ -1,5 +1,6 @@
 {
     "title": "Zaf's Stuff",
+    "description": "Collection of algo crap :)",
     "plugins": [
         "collapsible-menu",
         "disqus",
