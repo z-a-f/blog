@@ -1,7 +1,8 @@
 {
     "plugins": [
         "collapsible-menu",
-        "disqus"
+        "disqus",
+        "mathjax"
     ],
     "pluginsConfig": {
         "disqus": {
