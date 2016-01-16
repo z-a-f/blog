@@ -1,4 +1,5 @@
-# Study Materials
+Study Materials
+---------------
 
 The following study materials were used:
 * **CLRS:** *Introduction to Algorithms*, Third Edition, by {Cormen, Leiserson, Rivest, Stein}
