@@ -1,6 +1,7 @@
 {
     "title": "Zaf's Stuff",
     "description": "Collection of algo crap :)",
+    "language": "en",
     "plugins": [
         "collapsible-menu",
         "disqus",
