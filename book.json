@@ -9,8 +9,7 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "zufsstuff",
-            "useIdentifier": true
+            "shortName": "zufsstuff"
         }
     },
     "structure": {
