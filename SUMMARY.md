@@ -6,4 +6,5 @@
 * [Time and Space Complexity](timespace_complexity/timespace_complexity.md)
     * Primer
         * [Simple Loop](timespace_complexity/primer/simple_loop.md)
+        * [Nested Loop](timespace_complexity/primer/nested_loop.md)
 
