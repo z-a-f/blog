@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "collapsible-menu"
+        "collapsible-menu",
+        "disqus"
     ],
     "pluginsConfig": {}
 }
