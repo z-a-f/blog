@@ -3,5 +3,10 @@
         "collapsible-menu",
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "zufsstuff",
+            "useIdentifier": true
+        }
+    }
 }
