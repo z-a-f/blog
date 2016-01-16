@@ -1,2 +1,4 @@
-# Time and Space Complexity
+# Time Complexity
 Time Complexity
+
+# Space Complexity
