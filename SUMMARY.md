@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Time Complexity
+* [Time Complexity](time_complexity.md)
 
