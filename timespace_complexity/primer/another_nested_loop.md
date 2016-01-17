@@ -31,6 +31,9 @@ $$
 
 The total runtime would be 
 $$
-T = (N + (N-1) + (N-2) + \cdots + 1) * c_A
+\begin{align}
+T &= (N + (N-1) + (N-2) + \cdots + 1) * c_A
+T &= \sum_{i=1}^N
+\end{align}
 $$
 <!--endsec-->
