@@ -18,6 +18,4 @@ for (k = 0; k < N; k++) {
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
 Time: $$O(N^2)$$, Space: $$O(1)$$
-
-
 <!--endsec-->
