@@ -1,6 +1,6 @@
 # Nested Loop
 
-Place your question here
+What is the asymptotic time complexity of the following:
 
 ```C++
 int count = 0;
@@ -14,9 +14,5 @@ for (int i = N; i > 0; i /= 2) {
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
-Any solution codes would come here.
-```Python
-def question():
-    print "This is an answer!"
-```
+
 <!--endsec-->
