@@ -1,1 +1,6 @@
 /* CSS for pdf */
+button {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+}
