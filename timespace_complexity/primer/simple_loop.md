@@ -1,6 +1,6 @@
 # Simple Loop
 
-<!--sec data-id="problem" ces-->
+<!--sec data-title="Problem" data-id="problem" ces-->
 What is the space and time complexity of the following chunk of code?
 
 ```C++
