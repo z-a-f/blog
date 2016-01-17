@@ -38,4 +38,6 @@ T &= \frac{N\cdot(N+1)}{2}\cdot c_A \\
 O(T) &= O(N^2)
 \end{align}
 $$
+
+**Space complexity** is $$O(1)$$ because we only need to store variables `a`, `i`, and `j`.
 <!--endsec-->
