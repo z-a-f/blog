@@ -10,4 +10,5 @@
        * [Another Nested Loop](timespace_complexity/primer/another_nested_loop.md)
    * [Do the Math](timespace_complexity/do_the_math/do_the_math.md)
        * [While Loop](timespace_complexity/do_the_math/while_loop.md)
+       * Nested Loop
 
