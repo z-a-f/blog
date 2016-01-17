@@ -17,4 +17,5 @@ for (int i = N; i > 0; i /= 2) {
 $$O(N)$$
 
 > Explanation coming up
+
 <!--endsec-->
