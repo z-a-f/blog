@@ -39,6 +39,4 @@ T & = O(N)
 \end{align}
 $$
 
-> Explanation coming up
-
 <!--endsec-->
