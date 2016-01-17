@@ -8,4 +8,5 @@
        * [Simple Loop](timespace_complexity/primer/simple_loop.md)
        * [Nested Loop](timespace_complexity/primer/nested_loop.md)
        * [Another Nested Loop](timespace_complexity/primer/another_nested_loop.md)
+   * Do the Math
 
