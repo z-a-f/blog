@@ -14,6 +14,8 @@ for (i = 0; i < N; i++) {
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
+Time: $$O(N^2)$$, Space: $$O(1)$$
+
 We can see from the code that `i` iterates from `0` to `N-1` (`N` iterations), while `j` iterates from `N` to `i`. Let's see how many iterations $$k_i$$ will we have to run through for different values of `i`. Assume $$c_A$$ is the time required to perform two additions:
 $$
 \begin{align}
