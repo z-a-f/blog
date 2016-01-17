@@ -1,6 +1,6 @@
 # While Loop
 
-What is the asymptotic bound of the following chunk of code
+What is the asymptotic bound for the time complexity of the following chunk of code:
 
 ```C++
 int a = 0, i = N;
@@ -14,4 +14,6 @@ while (i > 0) {
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
  Time: $$O(log_2N)$$, Space: $$O(1)$$
+ 
+ First, we note that `a += i` is a constant time so we can exclude it from the analysis. Second, note that at every iteration of the `while` loop the value `i` is divided by 2. 
 <!--endsec-->
