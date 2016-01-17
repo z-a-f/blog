@@ -16,6 +16,6 @@ for (j = 0; j < M; j++) {
 <button class="section" target="solution" show="Show the next  hidden section" hide="Hide the next hidden section"></button>
 <!--endsec-->
 
-<!--sec data-title="Hidden Section" data-id="solution" data-show=false ces-->
+<!--sec data-title="Solution" data-id="solution" data-show=false ces-->
 Time: `O(N+M)`, Space: `O(1)`
 <!--endsec-->
