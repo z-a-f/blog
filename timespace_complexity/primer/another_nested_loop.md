@@ -32,8 +32,10 @@ $$
 The total runtime would be 
 $$
 \begin{align}
-T &= (N + (N-1) + (N-2) + \cdots + 1) * c_A
-T &= \sum_{i=1}^N
+T &= (N + (N-1) + (N-2) + \cdots + 1) * c_A \\
+T &= \sum_{k=1}^Nk \cdot c_A \\
+T &= \frac{N\cdot(N+1)}{2}\cdot c_A \\
+O(T) &= O(N^2)
 \end{align}
 $$
 <!--endsec-->
