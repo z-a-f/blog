@@ -16,4 +16,14 @@ while (i > 0) {
  Time: $$O(log_2N)$$
  
  First, we note that `a += i` is a constant time so we can exclude it from the analysis. Second, note that at every iteration of the `while` loop the value `i` is divided by 2. Because `i` is an integer, once it reaches value of 1, it will be the last iteration. Thus, it will take logarithmic time to complete the loop.
+ 
+ In other words, we need to find smallest $$x$$ such that 
+ 
+ $$ 
+ \begin{align}
+ \frac{N}{2^x} &= 1 \\
+ 2^x &= N \\
+ x &= log_2(N)
+ \end{align}
+ $$
 <!--endsec-->
