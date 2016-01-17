@@ -1,6 +1,6 @@
-# Primer/Basic
+# Do the Math
 
-This are the absolute basics of the time and space complexity. You can safely skip these because no one ever asks these :)
+You need to know some basic math to be able to solve these problems. Also, pay attention to the questions - they might be a little misleading.
 
 ## Template
 
