@@ -1,6 +1,7 @@
 # While Loop
 
 What is the asymptotic bound of the following chunk of code
+
 ```C++
 int a = 0, i = N;
 while (i > 0) {
