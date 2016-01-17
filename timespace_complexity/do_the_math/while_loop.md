@@ -13,5 +13,5 @@ while (i > 0) {
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
-
+ Time: $$O(log_2N)$$, Space: $$O(1)$$
 <!--endsec-->
