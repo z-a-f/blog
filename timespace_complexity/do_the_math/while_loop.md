@@ -15,5 +15,5 @@ while (i > 0) {
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
  Time: $$O(log_2N)$$
  
- First, we note that `a += i` is a constant time so we can exclude it from the analysis. Second, note that at every iteration of the `while` loop the value `i` is divided by 2.
+ First, we note that `a += i` is a constant time so we can exclude it from the analysis. Second, note that at every iteration of the `while` loop the value `i` is divided by 2. Because `i` is an integer, once it reaches value of 1, it will be the last iteration. 
 <!--endsec-->
