@@ -1,5 +1,7 @@
 # Primer/Basic
 
+This are the absolute basics of the time and space complexity. You can safely skip these because noone ever asks these :)
+
 ## Template
 
 Place your question here
