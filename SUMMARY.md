@@ -13,5 +13,5 @@
        * [Nested Loop](timespace_complexity/do_the_math/nested_loop.md)
        * [Another Nested Loop](timespace_complexity/do_the_math/another_nested_loop.md)
        * [GCD Complexity](timespace_complexity/do_the_math/gcd_complexity.md)
-       * [Compare Functions](timespace_complexity/compare_functions/compare_functions.md)
+   * [Compare Functions](timespace_complexity/compare_functions/compare_functions.md)
        
