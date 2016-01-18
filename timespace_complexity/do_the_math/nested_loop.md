@@ -38,5 +38,4 @@ T &< 2\cdot N \\
 T & = O(N)
 \end{align}
 $$
-
 <!--endsec-->

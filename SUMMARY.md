@@ -11,4 +11,7 @@
    * [Do the Math](timespace_complexity/do_the_math/do_the_math.md)
        * [While Loop](timespace_complexity/do_the_math/while_loop.md)
        * [Nested Loop](timespace_complexity/do_the_math/nested_loop.md)
-
+       * [Another Nested Loop](timespace_complexity/do_the_math/another_nested_loop.md)
+       * [GCD Complexity](timespace_complexity/do_the_math/gcd_complexity.md)
+       * [Compare Functions](timespace_complexity/compare_functions/compare_functions.md)
+       
