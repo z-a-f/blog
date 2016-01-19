@@ -14,4 +14,14 @@
        * [Another Nested Loop](timespace_complexity/do_the_math/another_nested_loop.md)
        * [GCD Complexity](timespace_complexity/do_the_math/gcd_complexity.md)
    * [Compare Functions](timespace_complexity/compare_functions/compare_functions.md)
+       * [Choose 1](timespace_complexity/compare_functions/compare_functions.md)
+       * [Choose 2](timespace_complexity/compare_functions/compare_functions.md)
+       * [Choose 3](timespace_complexity/compare_functions/compare_functions.md)
+   * [Function Calling](timespace_complexity/function_calling/function_calling.md)
+       * [Choose 1](timespace_complexity/function_calling/function_calling.md)
+       * [Choose 2](timespace_complexity/function_calling/function_calling.md)
+       * [Choose 3](timespace_complexity/function_calling/function_calling.md)
+   * [Amortized Complexity](timespace_complexity/amortized_complexity/amortized_complexity.md)
+* []()    
+   
        
