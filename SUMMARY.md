@@ -17,11 +17,9 @@
        * [Which one is not](timespace_complexity/compare_complexities/which_one_is_not.md)
        * [Sort](timespace_complexity/compare_complexities/sort.md)
        * [Fastest Loop](timespace_complexity/compare_complexities/fastest_loop.md)
-   * [Function Calling](timespace_complexity/function_calling/function_calling.md)
-       * [Choose 1](timespace_complexity/function_calling/function_calling.md)
-       * [Choose 2](timespace_complexity/function_calling/function_calling.md)
-       * [Choose 3](timespace_complexity/function_calling/function_calling.md)
+   * [Recursive Functions](timespace_complexity/recursive_functions/recursive_functions.md)
+       * [searchNumOccurence](timespace_complexity/recursive_functions/search_num_occurrence.md)
+       * [findMinPath](timespace_complexity/recursive_functions/find_min_path.md)
+       * [findMinPath DP](timespace_complexity/recursive_functions/find_min_path_dp.md)
    * [Amortized Complexity](timespace_complexity/amortized_complexity/amortized_complexity.md)
 * []()    
-   
-       

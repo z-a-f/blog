@@ -18,7 +18,7 @@ $$
 \begin{align}
 f(n) &= O(n^2), \\
 &\texttt{iff } f(n) \le C_0 \cdot n^2, \\
-&for n > n_0
+&\texttt{for } n > n_0
 \end{align}
 $$
 
