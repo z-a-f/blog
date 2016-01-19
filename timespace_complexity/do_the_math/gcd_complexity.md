@@ -35,7 +35,7 @@ Now assume $$F_i$$ is the $$i$$-th Fibonacci number and let us say $$n = F_N$$ a
 
 $$ F_N = F_{N-1} + F_{N-2}$$
 
-or $n = m + k$ where $k < m$.
+or $$n = m + k$$ where $$k < m$$.
 
 Therefore the step
 

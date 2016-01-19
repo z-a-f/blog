@@ -4,7 +4,7 @@ Online Judge - An online judge is an online system to test programs in programmi
 # CLRS
 Book: "Introduction to Algorithms", Third Edition, by {Cormen, Leiserson, Rivest, Stein}
 
-# GT-C++
+# GT-C
 Book: Data Structures and Algorithms in C++", Second Edition, by {Goodrich, Tamassia, Mount}
 
 # GT-Python
