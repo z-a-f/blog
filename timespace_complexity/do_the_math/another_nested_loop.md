@@ -14,10 +14,10 @@ for (i  = n/2; i <= n; i++) {
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
-$$\Theta(n\cdot log n)$$
+$$\Theta(n\cdot \log n)$$
 
 Lets just assume `n = 8` for now.
-We will try to see, the values of j corresponding to each i.
+We will try to see, the values of `j` corresponding to each `i`.
 
 $$
 i = 4, j = 2, 4, 8 \\
@@ -36,10 +36,10 @@ n = 16, j = 2, 4, 8, 16 \\
 n = 32, j = 2, 4, 8, 16, 32
 $$
 
-So, `j` would run for $$O(log n)$$ steps.
+So, `j` would run for $$O(\log n)$$ steps.
 `i` runs for n/2 steps.
 
-So, total steps $$ = O (n/2 * log (n)) = O(n logn) $$
+So, total steps $$ = O (n/2 * \log (n)) = O(n \log n) $$
 
 Note that the lower bound is also $$O(n \log n)$$, thus making the total time complexity $$T = \Theta(n \log n)$$
 

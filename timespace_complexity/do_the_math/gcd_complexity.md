@@ -41,9 +41,10 @@ Therefore the step
 
 `n = n % m` will make $$n = k$$
 
-`swap(n, m)` will result in $$n = F_{N-1}
+`swap(n, m)` will result in $$n = F_{N-1}$$
 
 $$m = k = F_{N-2}$$
+
 So, it will take $$N$$ steps before `m` becomes `0`.
 
 This means, in the worst case, this algorithm can take $$N$$ step if `n` is $$N$$th fibonacci number.
