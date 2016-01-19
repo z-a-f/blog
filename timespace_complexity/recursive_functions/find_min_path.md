@@ -39,6 +39,7 @@ Although this is a recursive algorithm, and it seems like the time complexity is
 
 Assume all the values in an array are the same, in that case:
 $$
+\begin{align}
 T(N) &= 2 \cdot T(N/2) + constant \\
 &= 4 \cdot T(N/4) + constant \\
 &= 8 \cdot T(N/8) + constant \\
@@ -46,6 +47,7 @@ T(N) &= 2 \cdot T(N/2) + constant \\
 &= N \cdot T(N/N) + constant \\
 &= N + constant \\
 &= O(N)
+\end{align}
 $$
 <!--endsec-->
 
