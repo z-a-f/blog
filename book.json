@@ -5,7 +5,8 @@
     "plugins": [
         "disqus",
         "mathjax",
-        "sectionx"
+        "sectionx",
+        "js-sequence-hand-diagram"
     ],
     "pluginsConfig": {
         "disqus": {
