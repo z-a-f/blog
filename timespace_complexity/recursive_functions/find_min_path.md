@@ -51,8 +51,8 @@ will be executed 2 every time. Let's construct a tree of function calls:
 
 ``` sequence-hand
 Title: Function calls
-F(0,0)->F(1,0)
-F(0,0)->F(0,0)
+A->B
+B->C
 ```
 
 <!--endsec-->
