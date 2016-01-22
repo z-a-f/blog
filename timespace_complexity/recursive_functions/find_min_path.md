@@ -49,11 +49,20 @@ $$T = O(2^{R + C})$$
 In the worst case scenario the line `return V.get(r).get(c) + Math.min(findMinPath(V, r + 1, c) , findMinpath(V, r, c + 1))`
 will be executed 2 every time. Let's construct a tree of function calls:
 
-``` sequence-hand
-Title: Function calls
-A->B
-B->C
-```
+1. At the root only one function will be called: $$F(0, 0)$$
+2. At the next level **two** functions will be called: $$F(0, 1)$$ and $$F(1, 0)$$
+3. At the next level **four** functions will be called: $$F(0, 2)$$, $$F(1, 1)$$, $$F(1, 1)$$ and $$F(2, 0)$$
+4. ...
+
+At every level $$i$$, there are $$2^i$$ calls. So total number of calls:
+
+$$
+\begin{align}
+T =  1 + 2 + 4 + \cdots + 2^i + \cdots 2^{M+N}
+T = O(2^{M+N})
+\end{align}
+$$
+
 
 <!--endsec-->
 
