@@ -83,7 +83,7 @@ That means that every function ends up calling other function at most 1 time, me
 every function executes at most $$O(1)$$ times. At the same time, for every combination
 of `(r,c)` we have to run the function - the total number of calls is $$R\cdot C$$.
 
-Thus, $$T = O(R\cdotC)$$
+Thus, $$T = O(R\cdot C)$$
 
 <!--endsec-->
 
