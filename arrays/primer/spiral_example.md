@@ -22,7 +22,7 @@ Given a matrix of $$m\times n$$ elements, where $$m$$ is the number of rows and 
 
 <!--endsec-->
 
-<!--sec data-title="Solution Approach" data-id="solapproach" data-show=true ces-->
+<!--sec data-title="Solution Approach" data-id="solapproach" data-show=true data-nopdf=true ces-->
 
 {% youtube %}https://www.youtube.com/watch?v=siKFOI8PNKM{% endyoutube %}
 
