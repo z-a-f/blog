@@ -5,12 +5,15 @@
     "plugins": [
         "copy-code-button",
         "disqus",
-        "mathjax",
+        "mathjax-beta",
         "sectionx"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "zafsstuff"
+        },
+        "mathjax": {
+            "forceSVG": true
         }
     },
     "structure": {
