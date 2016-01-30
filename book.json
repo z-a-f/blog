@@ -6,7 +6,8 @@
         "copy-code-button",
         "disqus",
         "mathjax",
-        "sectionx"
+        "sectionx",
+        "youtube"
     ],
     "pluginsConfig": {
         "disqus": {
