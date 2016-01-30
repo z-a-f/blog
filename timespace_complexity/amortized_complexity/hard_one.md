@@ -27,6 +27,7 @@ for idx in xrange(n):
 ```
 
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
+
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
 
 $$T = O(n)$$
