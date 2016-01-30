@@ -22,6 +22,8 @@
        * [findMinPath](timespace_complexity/recursive_functions/find_min_path.md)
        * [findMinPath (MEMO)](timespace_complexity/recursive_functions/find_min_path_dp.md)
    * [Amortized Complexity](timespace_complexity/amortized_complexity/amortized_complexity.md)
-       * [Hard One :)](timespace_complexity/amortized_complexity/hard_one.md)) 
+       * [Hard One :)](timespace_complexity/amortized_complexity/hard_one.md)
 * [Arrays](arrays/arrays.md)
-* []()    
+   * Primer
+* 
+
