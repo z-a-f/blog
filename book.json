@@ -3,10 +3,10 @@
     "description": "Collection of algo crap :)",
     "language": "en",
     "plugins": [
+        "copy-code-button",
         "disqus",
         "mathjax",
-        "sectionx",
-        "js-sequence-diagram"
+        "sectionx"
     ],
     "pluginsConfig": {
         "disqus": {
