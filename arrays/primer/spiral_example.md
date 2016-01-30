@@ -18,6 +18,8 @@ Given a matrix of $$m\times n$$ elements, where $$m$$ is the number of rows and 
 
 #### Solution Approach:
 
+{% youtube %}https://www.youtube.com/watch?v=siKFOI8PNKM{% endyoutube %}
+
 <!--endsec-->
 
 <!-- button class="section" target="solution" show="Show solution" hide="Hide solution"></button -->
