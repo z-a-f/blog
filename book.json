@@ -5,7 +5,7 @@
     "plugins": [
         "copy-code-button",
         "disqus",
-        "mathjax-beta",
+        "mathjax",
         "sectionx"
     ],
     "pluginsConfig": {
