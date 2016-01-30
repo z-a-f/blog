@@ -22,4 +22,10 @@ Given a matrix of $$m\times n$$ elements, where $$m$$ is the number of rows and 
 
 <!--endsec-->
 
-<!-- button class="section" target="solution" show="Show solution" hide="Hide solution"></button -->
+<button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
+
+<!--sec data-title="Solution" data-id="solution" data-show=false ces-->
+
+Solution is coming up...
+
+<!--endsec-->
