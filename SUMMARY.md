@@ -24,6 +24,5 @@
    * [Amortized Complexity](timespace_complexity/amortized_complexity/amortized_complexity.md)
        * [Hard One :)](timespace_complexity/amortized_complexity/hard_one.md)
 * [Arrays](arrays/arrays.md)
-   * Primer
-* 
+   * [Primer](arrays/primer.md)
 
