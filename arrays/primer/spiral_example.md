@@ -18,6 +18,12 @@ Given a matrix of $$m\times n$$ elements, where $$m$$ is the number of rows and 
 
 #### Solution Approach:
 
+<button class="section" target="solapproach" show="Show solution approach" hide="Hide solution approach"></button>
+
+<!--endsec-->
+
+<!--sec data-title="Solution Approach" data-id="solapproach" data-show=true ces-->
+
 {% youtube %}https://www.youtube.com/watch?v=siKFOI8PNKM{% endyoutube %}
 
 <!--endsec-->
