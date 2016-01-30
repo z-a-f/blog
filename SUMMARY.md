@@ -25,5 +25,5 @@
        * [Hard One :)](timespace_complexity/amortized_complexity/hard_one.md)
 * [Arrays](arrays/arrays.md)
    * [Primer](arrays/primer.md)
-       * Spiral (Example)
+       * [Spiral (Example)](arrays/spiral_example.md)
 
