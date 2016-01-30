@@ -1,2 +1,0 @@
-# Spiral (Example)
-
