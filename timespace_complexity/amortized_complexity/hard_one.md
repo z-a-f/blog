@@ -29,7 +29,7 @@ for idx in xrange(n):
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
 
-$$T = O(n)
+$$T = O(n)$$
 
 First thing to note is that value of `jdx` is not initialized for every value of `idx`,
 which means the inner `jdx++` will be executed at most `n` times.
