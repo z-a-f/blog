@@ -85,29 +85,22 @@ public static void main(String[] args) {
 
 ``` python
 def performOps(A):
-    m = len(A)
-    n = len(A[0])
-    B = []
+    blen = 2 * len(A)
+    B = [0]*blen
     for i in xrange(len(A)):
-        B.append([0] * n)
-        for j in xrange(len(A[i])):
-            B[i][n - 1 - j] = A[i][j]
+        B[i] = A[i]
+        B[i + len(A)] = A[(len(A) - i) % len(A)]
     return B
 
 if __name__ == '__main__':
     # A declared here
     B = performOps(A)
     for i in xrange(len(B)):
-        for j in xrange(len(B[i])):
-            print B[i][j],
+        print B[i],
 ```
-
-*Hint*: Try to focus on `B[i][n - 1 - j] = A[i][j]`
-
-Row remains the same for both. Just the column order is reversed.
 
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
-**Output:** `4 3 2 1 8 7 6 5 12 11 10 9`
+**Output:** `5 10 2 1 5 1 2 10`
 <!--endsec-->
