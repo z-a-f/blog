@@ -26,4 +26,5 @@
 * [Arrays](arrays/arrays.md)
    * [Primer](arrays/primer/primer.md)
        * [Spiral (Example)](arrays/primer/spiral_example.md)
+       * 2D Array
 
