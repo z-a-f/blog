@@ -56,3 +56,17 @@ public ArrayList<Integer> rotateArray(ArrayList<Integer> A, int B) {
 	return ret;
 }
 ```
+
+---
+
+#### Python
+
+``` python
+def rotateArray(self, a, b):
+    ret = []
+    for i in xrange(len(a)):
+        ret.append(a[i + b])
+    return ret
+```
+
+
