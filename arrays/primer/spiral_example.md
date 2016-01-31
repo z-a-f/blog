@@ -32,6 +32,6 @@ Given a matrix of $$m\times n$$ elements, where $$m$$ is the number of rows and 
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
 
-Solution is coming up...
+[Python](https://github.com/zafartahirov/blog/tree/solutions/arrays/primer/spiral/python)
 
 <!--endsec-->
