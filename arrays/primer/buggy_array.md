@@ -20,7 +20,7 @@ B = 1
 
 #### C
 
-``` C
+``` c
 int* rotateArray(int* A, int n1, int B, int *len) {
 	int *ret = (int *)malloc(n1 * sizeof(int));
 	*len = n1;
@@ -30,3 +30,10 @@ int* rotateArray(int* A, int n1, int B, int *len) {
 }
 ```
 
+---
+
+#### C++
+
+``` C++
+
+```
