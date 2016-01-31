@@ -11,7 +11,9 @@ Given a matrix of $$m\times n$$ elements, where $$m$$ is the number of rows and 
     [ 7, 8, 9 ]
 ]
 ```
+
 ##### Output:
+
 ```
 [1, 2, 3, 6, 9, 8, 7, 4, 5]
 ```
