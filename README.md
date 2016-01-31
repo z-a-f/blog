@@ -9,6 +9,7 @@ The detailed structure of the book is given [here](SUMMARY.md).
 
 ### Book structure:
 - ROOT directory
+    - [Glossary](//GLOSSARY.md) → Glossary goes in here
     - [styles](//styles) → Put styles here. For details refer to [GitBooks](https://help.gitbook.com/styling/book.html).
     - [Introduction](//INTRO.md) → This is just an introduction
         - The [introduction](//introduction) folder holds extra stuff
