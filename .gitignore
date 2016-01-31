@@ -14,3 +14,10 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+
+
+### Compiled files:
+
+# Python
+*.pyc
