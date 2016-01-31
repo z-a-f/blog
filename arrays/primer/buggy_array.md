@@ -20,12 +20,13 @@ B = 1
 
 #### C
 
-``` c
+```c
 int* rotateArray(int* A, int n1, int B, int *len) {
 	int *ret = (int *)malloc(n1 * sizeof(int));
 	*len = n1;
 	int i;
-	for (i = 0; i < n1; i++) ret[i] = A[i + B];
+	for (i = 0; i < n1; i++) 
+	    ret[i] = A[i + B];
 	return ret;
 }
 ```
@@ -34,6 +35,24 @@ int* rotateArray(int* A, int n1, int B, int *len) {
 
 #### C++
 
-``` C++
+``` c++
+vector<int> rotateArray(vector<int> &A, int B) {
+	vector<int> ret; 
+	for (int i = 0; i < A.size(); i++)
+		ret.push_back(A[i + B]);
+	return ret; 
+}
+```
 
+---
+
+#### Java
+
+``` java
+public ArrayList<Integer> rotateArray(ArrayList<Integer> A, int B) {
+	ArrayList<Integer> ret = new ArrayList<Integer>();
+	for (int i = 0; i < A.size(); i++)
+		ret.add(A.get(i + B));
+	return ret;
+}
 ```
