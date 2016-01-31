@@ -32,4 +32,4 @@ The detailed structure of the book is given [here](SUMMARY.md).
 
 ---
 
-If you'd like to contribute
+If you'd like to contribute to the book, clone the project, make your changes and send a pull request. Note that the pull request will be rejected if not conforming to the structure above.
