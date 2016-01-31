@@ -124,3 +124,12 @@ if __name__ == '__main__':
             print B[i][j],
 ```
 
+*Hint*: Try to focus on `B[i][n - 1 - j] = A[i][j]`
+
+Row remains the same for both. Just the column order is reversed.
+
+<button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
+
+<!--sec data-title="Solution" data-id="solution" data-show=false ces-->
+**Output:** `4 3 2 1 8 7 6 5 12 11 10 9`
+<!--endsec-->
