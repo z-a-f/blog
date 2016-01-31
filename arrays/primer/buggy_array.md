@@ -71,4 +71,8 @@ def rotateArray(self, a, b):
     return ret
 ```
 
+<button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
+<!--sec data-title="Solution" data-id="solution" data-show=false ces-->
+**Solutions are coming :)**
+<!--endsec-->
