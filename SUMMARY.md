@@ -38,5 +38,5 @@
    * [Generate Array](arrays/generate_array/generate_array.md)
        * [Maximum Subset](arrays/generate_array/maximum_subset.md)
        * [Pascal's Triangle 1](arrays/generate_array/pascals_triangle_1.md)
-       * Pascals'
+       * Pascal's Triangle 2
 
