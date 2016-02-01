@@ -36,5 +36,5 @@
        * [Array with extras :)](arrays/math/array_with_extras.md)
        * [Flip Binary](arrays/math/flip_binary.md)
    * [Generate Array](arrays/generate_array/generate_array.md)
-       * Maximum Subset
+       * [Maximum Subset](arrays/generate_array/maximum_subset.md)
 
