@@ -32,5 +32,5 @@
    * [Math](arrays/math/math.md)
        * [Reach the End](arrays/math/reach_the_end.md)
        * [Maximum Sum](arrays/math/maximum_sum.md)
-       * Plus One
+       * [Plus One](arrays/math/plus_one.md)
 
