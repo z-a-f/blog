@@ -46,4 +46,5 @@
        * [Rotate Matrix](arrays/rearrangement/rotate_matrix.md)
        * [Next Larger Permutation](arrays/rearrangement/next_larger_permutation.md)
    * [Sorting](arrays/sorting/sorting.md)
+       * Hotel Bookings
 
