@@ -18,3 +18,11 @@ Output: 5
 
 ### Explanation
 The input array in its sorted form is `[1, 5, 10]`, which makes the maximum distance `5`.
+
+<button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
+
+<!--sec data-title="Solution" data-id="solution" data-show=false ces-->
+
+**Solution coming up... :)**
+
+<!--endsec-->
