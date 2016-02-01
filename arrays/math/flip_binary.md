@@ -34,7 +34,7 @@ Ouput: []
 
 ### Explanation
 
-There is no possible combination of $$L$$ and $$R$$ to increase the number of $$1$$'s in the input string.
+There is no possible combination of $$L$$ and $$R$$ to increase the number of 1's in the input string.
 
 
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
