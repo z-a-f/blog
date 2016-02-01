@@ -9,7 +9,7 @@ If there are multiple solution, return any of them.
 ## Example
 ```
 Input: [3, 4, 1, 4, 1]
-Output: 1
+Output: 1 or 4
 ```
 
 ### Explanation
