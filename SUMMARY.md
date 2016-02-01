@@ -50,5 +50,5 @@
        * [Wave](arrays/sorting/wave.md)
        * [Maximum Distance](arrays/sorting/maximum_distance.md)
        * [Maximum Gap](arrays/sorting/maximum_gap.md)
-       * Repeating Subarray
+       * [Repeating Subarray](arrays/sorting/repeating_subarray.md)
 
