@@ -20,3 +20,10 @@ Output: [1, 2, 5]
 ### Explanation
 The input array has two valid sub-arrays: `[1, 2, 5]` and `[2, 3]`, and the former one has larger sum.
 
+<button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
+
+<!--sec data-title="Solution" data-id="solution" data-show=false ces-->
+
+**Solution coming up... :)**
+
+<!--endsec-->
