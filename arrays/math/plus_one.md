@@ -1,16 +1,16 @@
 # Plus One
 
-Given a number that is represented as an array of digits, add 1 to it, and 
+Given a number that is represented as an array of digits, add 1 to it, and return the new array.
 
 ## Example
 
 ```
-Input  : [-2,1,-3,4,-1,2,1,-5,4]
-Output : 6
+Input  : [1,2,3]
+Output : [1,2,4]
 ```
 
 ### Explanation
-The maximum subarray is `[4,-1,2,1]`, and there is no way to get a larger sum.
+`[1,2,3]` corresponds to the number `123`. If 1 is added to it, the result would be `124`, which is returned as `[1,2,4]`.
 
 
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
