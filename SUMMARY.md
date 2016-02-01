@@ -34,4 +34,5 @@
        * [Maximum Sum](arrays/math/maximum_sum.md)
        * [Plus One](arrays/math/plus_one.md)
        * [Array with extras :)](arrays/math/array_with_extras.md)
+       * Flip Binary
 
