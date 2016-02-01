@@ -41,5 +41,5 @@
        * [Pascal's Triangle 2](arrays/generate_array/pascals_triangle_2.md)
        * [Spiral](arrays/generate_array/spiral.md)
        * [Anti-diagonals](arrays/generate_array/anti-diagonals.md)
-   * Rearrangement
+   * [Rearrangement](arrays/rearrangement/rearrangement.md)
 
