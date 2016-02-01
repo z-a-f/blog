@@ -37,5 +37,5 @@
        * [Flip Binary](arrays/math/flip_binary.md)
    * [Generate Array](arrays/generate_array/generate_array.md)
        * [Maximum Subset](arrays/generate_array/maximum_subset.md)
-       * Pascals
+       * Pascal's Triangle 1
 
