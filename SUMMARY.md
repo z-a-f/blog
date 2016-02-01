@@ -35,5 +35,5 @@
        * [Plus One](arrays/math/plus_one.md)
        * [Array with extras :)](arrays/math/array_with_extras.md)
        * [Flip Binary](arrays/math/flip_binary.md)
-   * Generate Array
+   * [Generate Array](arrays/generate_array/generate_array.md)
 
