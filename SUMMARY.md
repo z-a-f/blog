@@ -39,5 +39,5 @@
        * [Maximum Subset](arrays/generate_array/maximum_subset.md)
        * [Pascal's Triangle 1](arrays/generate_array/pascals_triangle_1.md)
        * [Pascal's Triangle 2](arrays/generate_array/pascals_triangle_2.md)
-       * Spiral
+       * [Spiral](arrays/generate_array/spiral.md)
 
