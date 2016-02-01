@@ -12,6 +12,9 @@ Input: [3, 4, 1, 4, 1]
 Output: 1
 ```
 
+### Explanation
+There are 2 repeating elements `1` and `4`. The output could be either.
+
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
