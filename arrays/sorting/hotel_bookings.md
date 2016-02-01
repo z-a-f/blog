@@ -25,3 +25,10 @@ There is only one room in the hotel, so we know that there cannot be more than 1
 
 From the table above we see that at days 5 there will be 2 guests in the hotel - so, it is impossible to accommodate everybody.
 
+<button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
+
+<!--sec data-title="Solution" data-id="solution" data-show=false ces-->
+
+**Solution coming up... :)**
+
+<!--endsec-->
