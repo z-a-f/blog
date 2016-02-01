@@ -11,6 +11,9 @@ Output: [1, 1]
 ```
 
 ### Explanation
+$$S = 010$$
+
+Let's see what would be the result once we flip the bits for different values of $$L$$ and $$R$$.
 
 | $$[L,R]$$ | $$S_{Result}$$ |
 | :-------: | :------------: |
@@ -20,8 +23,18 @@ Output: [1, 1]
 | $$[1, 1]$$| 000            |
 | $$[1, 2]$$| 001            |
 
+We see that for $$[L,R]$$ being $$[0, 0]$$ and $$[0, 2]$$, the number of $$1$$'s in the resulting string is 2. Because $$[0, 0]$$ is lexicographically smaller, that's the answer.
 
+## Example 2
 
+```
+Input: "111"
+Ouput: []
+```
+
+### Explanation
+
+There is no possible combination of $$L$$ and $$R$$ to increase the number of $$1$$'s in the input string.
 
 
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
