@@ -18,7 +18,6 @@ Book: "The Art of Computer Programming, Volume 2", Second Edition, by Donald Knu
 
 # Contiguous
 In the context of the arrays, it means continuous sequence of array elements. For example, given an array `[1,2,3,4,5,6,7]`:
-
 `[1,2,3]` is a contiguous subarray, while `[1,2,5]` is a non-contiguous subarray
 
 # Lexicographically Smaller
