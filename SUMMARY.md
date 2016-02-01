@@ -47,5 +47,5 @@
        * [Next Larger Permutation](arrays/rearrangement/next_larger_permutation.md)
    * [Sorting](arrays/sorting/sorting.md)
        * [Hotel Bookings](arrays/sorting/hotel_bookings.md)
-       * Wave
+       * [Wave](arrays/sorting/wave.md)
 
