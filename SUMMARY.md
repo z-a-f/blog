@@ -42,5 +42,5 @@
        * [Spiral](arrays/generate_array/spiral.md)
        * [Anti-diagonals](arrays/generate_array/anti-diagonals.md)
    * [Rearrangement](arrays/rearrangement/rearrangement.md)
-       * Largest Number
+       * [Largest Number](arrays/rearrangement/largest_number.md)
 
