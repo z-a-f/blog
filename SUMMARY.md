@@ -43,4 +43,5 @@
        * [Anti-diagonals](arrays/generate_array/anti-diagonals.md)
    * [Rearrangement](arrays/rearrangement/rearrangement.md)
        * [Largest Number](arrays/rearrangement/largest_number.md)
+       * Rotate Matrix
 
