@@ -27,7 +27,7 @@ The detailed structure of the book is given [here](SUMMARY.md).
 
 
 ## Contributors
-* [Zafar T.](//github.com/zafartahirov/)
+* [Zafar T.](//resume.zafar.cc)
 * [Bob Z.](//github.com/byzhou)
 
 ---
