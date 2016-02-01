@@ -18,3 +18,10 @@ Ouput:
 ]
 ```
 
+<button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
+
+<!--sec data-title="Solution" data-id="solution" data-show=false ces-->
+
+**Solution coming up... :)**
+
+<!--endsec-->
