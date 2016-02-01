@@ -49,5 +49,5 @@
        * [Hotel Bookings](arrays/sorting/hotel_bookings.md)
        * [Wave](arrays/sorting/wave.md)
        * [Maximum Distance](arrays/sorting/maximum_distance.md)
-       * Maximum Gap
+       * [Maximum Gap](arrays/sorting/maximum_gap.md)
 
