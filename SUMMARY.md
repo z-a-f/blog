@@ -31,4 +31,5 @@
        * [Buggy Array](arrays/primer/buggy_array.md)
    * [Math](arrays/math/math.md)
        * [Reach the End](arrays/math/reach_the_end.md)
+           * Maximum Sum
 
