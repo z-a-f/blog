@@ -44,4 +44,5 @@
    * [Rearrangement](arrays/rearrangement/rearrangement.md)
        * [Largest Number](arrays/rearrangement/largest_number.md)
        * [Rotate Matrix](arrays/rearrangement/rotate_matrix.md)
+       * Next Larger Permutation
 
