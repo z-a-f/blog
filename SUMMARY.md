@@ -29,4 +29,5 @@
        * [1D Array](arrays/primer/1d_array.md)
        * [2D Array](arrays/primer/2d_array.md)
        * [Buggy Array](arrays/primer/buggy_array.md)
+   * Math
 
