@@ -4,7 +4,7 @@ Given an array of $$n+1$$ integers between 1 and $$n$$, find one number that rep
 
 You are not allowed to modify the input array.
 
-If there are multiple solution, return any answer.
+If there are multiple solution, return any of them.
 
 ## Example
 ```
