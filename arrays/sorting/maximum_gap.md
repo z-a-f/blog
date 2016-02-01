@@ -7,6 +7,7 @@ Return `0` if the array contains less than 2 elements.
 The solution has to be linear space/time complexity: $$O(n)$$.
 
 **Assumption:** You may assume that all elements in the array are non-negative and fit in the 32-bit signed integer range.
+
 **Assumption:** The difference will not overflow.
 
 ## Example
