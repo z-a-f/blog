@@ -13,3 +13,10 @@ Input: [1, 2, 3, 4]
 Output: [2, 1, 4, 3]
 ```
 
+<button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
+
+<!--sec data-title="Solution" data-id="solution" data-show=false ces-->
+
+**Solution coming up... :)**
+
+<!--endsec-->
