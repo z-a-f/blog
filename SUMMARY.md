@@ -52,4 +52,5 @@
        * [Maximum Gap](arrays/sorting/maximum_gap.md)
        * [Repeating Subarray](arrays/sorting/repeating_subarray.md)
    * [Interval Operations](arrays/interval_operations/interval_operations.md)
+       * Interval 1
 
