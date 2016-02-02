@@ -18,3 +18,4 @@ Output: 1
 ### Explanation
 
 1 repeats three times, which is more than 5/3.
+
