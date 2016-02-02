@@ -57,5 +57,5 @@
    * [Space recycle](arrays/space_recycle/space_recycle.md)
        * [Find Missing Number](arrays/space_recycle/find_missing_number.md)
        * [Set Matrix to Zero](arrays/space_recycle/set_matrix_to_zero.md)
-       * Find Repeating
+       * [Find Repeating](arrays/space_recycle/find_repeating.md)
 
