@@ -54,4 +54,5 @@
    * [Ranges](arrays/ranges/ranges.md)
        * [Interval 1](arrays/ranges/interval_1.md)
        * [Interval 2](arrays/ranges/interval_2.md)
+   * Space recycle
 
