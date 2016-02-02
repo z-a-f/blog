@@ -53,5 +53,5 @@
        * [Repeating Subarray](arrays/sorting/repeating_subarray.md)
    * [Interval Operations](arrays/interval_operations/interval_operations.md)
        * [Interval 1](arrays/interval_operations/interval_1.md)
-       * Interval 2
+       * [Interval 2](arrays/interval_operations/interval_2.md)
 
