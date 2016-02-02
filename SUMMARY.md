@@ -55,5 +55,5 @@
        * [Interval 1](arrays/ranges/interval_1.md)
        * [Interval 2](arrays/ranges/interval_2.md)
    * [Space recycle](arrays/space_recycle/space_recycle.md)
-       * Find Missing Number
+       * [Find Missing Number](arrays/space_recycle/find_missing_number.md)
 
