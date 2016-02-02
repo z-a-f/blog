@@ -25,3 +25,11 @@ Output: [[1,2],[3,10],[12,16]]
 ### Explanation
 
 The interval `[4, 9]` overlaps with `[[3, 5], [6, 7], [8, 10]]`, so they are merged.
+
+<button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
+
+<!--sec data-title="Solution" data-id="solution" data-show=false ces-->
+
+**Solution coming up... :)**
+
+<!--endsec-->
