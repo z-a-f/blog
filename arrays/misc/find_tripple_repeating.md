@@ -2,6 +2,8 @@
 
 Given a *read-only* array of $$n$$ integers, find out if any element occurs more than $$n/3$$ times.
 
+If there is no solution return `-1`.
+
 ## Requirements
 $$T = O(n) \\
 S = O(1)$$
