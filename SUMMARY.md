@@ -51,7 +51,7 @@
        * [Maximum Distance](arrays/sorting/maximum_distance.md)
        * [Maximum Gap](arrays/sorting/maximum_gap.md)
        * [Repeating Subarray](arrays/sorting/repeating_subarray.md)
-   * [Interval Operations](arrays/ranges/ranges.md)
+   * [Ranges](arrays/ranges/ranges.md)
        * [Interval 1](arrays/ranges/interval_1.md)
        * [Interval 2](arrays/ranges/interval_2.md)
 
