@@ -58,5 +58,5 @@
        * [Find Missing Number](arrays/space_recycle/find_missing_number.md)
        * [Set Matrix to Zero](arrays/space_recycle/set_matrix_to_zero.md)
    * [Misc.](arrays/misc/misc.md)
-       * Find Tripple Repeating
+       * [Find Tripple Repeating](arrays/misc/find_tripple_repeating.md)
 
