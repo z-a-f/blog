@@ -5,6 +5,7 @@
     "plugins": [
         "copy-code-button",
         "disqus",
+        "expandable-chapters",
         "mathjax",
         "sectionx",
         "youtube"
