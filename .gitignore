@@ -1,3 +1,8 @@
+# Residues
+_book
+node_modules
+
 
 # Python
 *.pyc
+
