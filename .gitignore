@@ -6,3 +6,6 @@ node_modules
 # Python
 *.pyc
 
+# Java/Scala
+*.class
+
