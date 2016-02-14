@@ -76,10 +76,30 @@ def rotateArray(a, b):
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
 Notice that `i + B` might be bigger than the length of the array. The fix is simple: just add the numbers modulo `array length`.
 
----
-
 #### C
 ``` c
+    // ...
+    ret[i] = A[(i + B) % n1];
+    // ...
+```
 
+---
+
+#### C++
+``` c++
+    // ...
+    int n1 = A.size();
+    ret.push_back(A[(i+B)%n1]);
+    // ...
+```
+
+---
+
+#### Java
+``` java
+    // ...
+    int n1 = A.size();
+    ret.add(A.get((i+B)%n1);
+    // ...
 ```
 <!--endsec-->
