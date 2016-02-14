@@ -35,5 +35,18 @@ First thing to notice is that we don't need any traversal algorithms - the order
 
 Next thing to notice is that we can move diagonally -- diagonal movement is preferred as compared to horizontal or vertical (why?).
 
-So,
+As a first step we need to figure out what is the minimum distance between two points assuming you can go in 8 directions. We know that we need to go diagonally first. After that we walk through horizontally or vertically (whatever left out after diagonal).
+
+Here is a pseudocode:
+
+```
+distance(a,b):
+    dist = 0
+    // Move diagonally first
+    Dx = |a.x - b.x|
+    Dy = |a.y - b.y|
+    dist += min(Dx, Dy) // Minimum of either x or y
+    dist += |Dx - Dy|   // whatever left
+    return dist
+```
 <!--endsec-->
