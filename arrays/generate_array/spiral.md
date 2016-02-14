@@ -16,7 +16,7 @@ Ouput:
 
 ### Explanation
 
-This question is similar to [Spiral (Example)](arrays/primer/spiral_example.html), with only difference that now you need to generate the array. In this example, if you go through the matrix in clockwise spiral, you can traverse from 1 to $$n^2$$.
+This question is similar to [Spiral (Example)](../primer/spiral_example.html), with only difference that now you need to generate the array. In this example, if you go through the matrix in clockwise spiral, you can traverse from 1 to $$n^2$$.
 
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
