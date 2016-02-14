@@ -2,6 +2,8 @@
 
 Find the contiguous subarray within an array (containing at least one number) which has the largest sum. Return the sum.
 
+__Note:__ Your solution should have $$O(n)$$ time complexity and $$O(1)$$ space complexity.
+
 ## Example
 
 ```
