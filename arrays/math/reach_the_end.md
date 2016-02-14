@@ -31,5 +31,9 @@ It takes 1 step to move from `(0,0)` to `(1,1)`. It takes one more step to move 
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
-**Solution coming up... :)**
+First thing to notice is that we don't need any traversal algorithms - the order of traversal is already given to us.
+
+Next thing to notice is that we can move diagonally -- diagonal movement is preferred as compared to horizontal or vertical (why?).
+
+So,
 <!--endsec-->
