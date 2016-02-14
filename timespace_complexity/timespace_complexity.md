@@ -13,7 +13,7 @@ In the roughest terms, time comlexity is the estimation of how fast does your im
 of an algorithm grows with respect to some variable. The same goes with the memory complexity:
 what is the order of maximum memory occupied by an algorithm.
 
-For more details refer to the [study list](introduction/study_materials).
+For more details refer to the [study list](/introduction/study_materials).
 
 
 
