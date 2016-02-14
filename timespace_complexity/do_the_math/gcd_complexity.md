@@ -33,7 +33,7 @@ The worst case for the Euclid's Algorithm is two consecutive Fibonacci numbers. 
 
 Now assume $$F_i$$ is the $$i$$-th Fibonacci number and let us say $$n = F_N$$ and $$m = F_{N - 1}$$.
 
-$$ F_N = F_{N-1} + F_{N-2}$$
+$$F_N = F_{N-1} + F_{N-2}$$
 
 or $$n = m + k$$ where $$k < m$$.
 
