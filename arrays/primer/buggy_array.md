@@ -102,4 +102,14 @@ Notice that `i + B` might be bigger than the length of the array. The fix is sim
     ret.add(A.get((i+B)%n1);
     // ...
 ```
+
+---
+
+#### Python
+``` python
+    n1 = len(a)
+    # ...
+        ret.append(a[(i+b)%n1])
+    # ...
+```
 <!--endsec-->
