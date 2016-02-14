@@ -62,17 +62,12 @@ def dist(a, b):
     d += abs(dx - dy)
     return d
 
-# @param X : list of integers
-# @param Y : list of integers
-# Points are represented by (X[i], Y[i])
+# @param A : list of tuples with x, y coordinates
 # @return an integer
-def coverPoints(X, Y):
-    xLen = len(X)
-    yLen = len(Y)
-    assert xLen == yLen
+def coverPoints(A):
     d = 0
     for idx in range(1, xLen):
-        d += self.dist((X[idx-1], Y[idx-1]), (X[idx], Y[idx]))
+        d += dist(A[idx-1], A[idx])
         
     return d
 ```
