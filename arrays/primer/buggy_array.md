@@ -22,7 +22,7 @@ B = 1
 
 #### C
 
-```c
+``` c++
 int* rotateArray(int* A, int n1, int B, int *len) {
 	int *ret = (int *)malloc(n1 * sizeof(int));
 	*len = n1;
@@ -74,5 +74,12 @@ def rotateArray(a, b):
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
-**Solutions are coming :)**
+Notice that `i + B` might be bigger than the length of the array. The fix is simple: just add the numbers modulo `array length`.
+
+---
+
+#### C
+``` c
+
+```
 <!--endsec-->
