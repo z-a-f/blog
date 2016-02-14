@@ -49,4 +49,31 @@ distance(a,b):
     dist += |Dx - Dy|   // whatever left
     return dist
 ```
+
+### Codes
+
+#### Python
+``` python
+def dist(a, b):
+    d = 0
+    dx = abs(a[0] - b[0])
+    dy = abs(a[1] - b[1])
+    d += min(dx, dy)
+    d += abs(dx - dy)
+    return d
+
+# @param X : list of integers
+# @param Y : list of integers
+# Points are represented by (X[i], Y[i])
+# @return an integer
+def coverPoints(X, Y):
+    xLen = len(X)
+    yLen = len(Y)
+    assert xLen == yLen
+    d = 0
+    for idx in range(1, xLen):
+        d += self.dist((X[idx-1], Y[idx-1]), (X[idx], Y[idx]))
+        
+    return d
+```
 <!--endsec-->
