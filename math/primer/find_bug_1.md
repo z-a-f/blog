@@ -4,7 +4,34 @@ The following code has a bug. Can you find it?
 
 The code is supposed to check if a number is prime.
 
+#### C
 
+``` c
+int isPrime(int num) {
+    int upperLimit = (int)(sqrt(num));
+    int i;
+    for (i = 2; i <= upperLimit; i++) {
+	    if (i < num && num % i == 0) return 0;
+	}
+    return 1;
+}
+```
+
+#### C++
+
+``` c++
+int isPrime(int A) {
+	int upperLimit = (int)(sqrt(num));
+	for (int i = 2; i <= upperLimit; i++) {
+		if (i < num && num % i == 0) return 0;
+	}
+	return 1;
+}
+```
+
+#### Java
+
+#### Python
 
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
