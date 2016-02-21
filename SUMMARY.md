@@ -62,4 +62,5 @@
 * [Math](math/math.md)
    * [Primer](math/primer/primer.md)
        * [Find Bug 1](math/primer/find_bug_1.md)
+       * Find Bug 2
 
