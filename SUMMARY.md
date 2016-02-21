@@ -60,5 +60,5 @@
    * [Misc.](arrays/misc/misc.md)
        * [Find Tripple Repeating](arrays/misc/find_tripple_repeating.md)
 * [Math](math/math.md)
-   * Primer
+   * [Primer](math/primer/primer.md)
 
