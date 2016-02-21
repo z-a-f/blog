@@ -16,3 +16,14 @@ Output: 1010
 
 
 
+<button class="section" target="approach" show="Show hint" hide="Hide hint"></button>
+
+<!--sec data-title="Hint" data-id="approach" data-show=false ces-->
+** Solutions coming up soon :)**
+<!--endsec-->
+
+<button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
+
+<!--sec data-title="Solution" data-id="solution" data-show=false ces-->
+** Solutions coming up soon :)**
+<!--endsec-->
