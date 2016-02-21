@@ -59,4 +59,5 @@
        * [Set Matrix to Zero](arrays/space_recycle/set_matrix_to_zero.md)
    * [Misc.](arrays/misc/misc.md)
        * [Find Tripple Repeating](arrays/misc/find_tripple_repeating.md)
+* Math
 
