@@ -34,10 +34,10 @@ int isPrime(int num) {
 #### Python
 
 ``` python
-def isPrime(self, A):
-	upperLimit = int(A**0.5)
+def isPrime(self, num):
+	upperLimit = int(num**0.5)
 	for i in xrange(2, upperLimit + 1):
-		if i < A and A % i == 0:
+		if i < num and num % i == 0:
 			return 0
 	return 1
 ```
