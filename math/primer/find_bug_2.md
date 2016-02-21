@@ -12,13 +12,34 @@ However, there are bugs in the code. Can you find the bug?
 #### C
 
 ``` c
-int isPrime(int num) {
-    int upperLimit = (int)(sqrt(num));
-    int i;
-    for (i = 2; i <= upperLimit; i++) {
-	    if (i < num && num % i == 0) return 0;
+int ** squareSum(int n, int *len1, int *len2) {
+	*len2 = 2;
+	*len1 = 0;
+	int a, b;
+	
+	for (a = 0; a * a < n; a++) {
+		for (b = 0; b * b < n; b++) {
+			if (a * a + b * b == n) {
+				*len1 = *len1 + 1;	
+			}
+		}
 	}
-    return 1;
+
+	int **ans = (int **)malloc(*len1 * sizeof(int *));
+	int index = 0;
+	
+	for (a = 0; a * a < n; a++) {
+		for (b = 0; b * b < n; b++) {
+			if (a * a + b * b == n) {
+				ans[index] = (int *)malloc(2 * sizeof(int));
+				ans[index][0] = a;
+				ans[index][1] = b;
+				index++;
+			}
+		}
+	}
+
+	return ans;
 }
 ```
 
