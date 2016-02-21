@@ -61,4 +61,5 @@
        * [Find Tripple Repeating](arrays/misc/find_tripple_repeating.md)
 * [Math](math/math.md)
    * [Primer](math/primer/primer.md)
+       * Find Bug 1
 
