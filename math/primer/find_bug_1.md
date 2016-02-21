@@ -20,7 +20,7 @@ int isPrime(int num) {
 #### C++
 
 ``` c++
-int isPrime(int A) {
+int isPrime(int num) {
 	int upperLimit = (int)(sqrt(num));
 	for (int i = 2; i <= upperLimit; i++) {
 		if (i < num && num % i == 0) return 0;
@@ -32,6 +32,15 @@ int isPrime(int A) {
 #### Java
 
 #### Python
+
+``` python
+def isPrime(self, A):
+	upperLimit = int(A**0.5)
+	for i in xrange(2, upperLimit + 1):
+		if i < A and A % i == 0:
+			return 0
+	return 1
+```
 
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
