@@ -63,5 +63,5 @@
    * [Primer](math/primer/primer.md)
        * [Find Bug 1](math/primer/find_bug_1.md)
        * [Find Bug 2](math/primer/find_bug_2.md)
-       * Decimal to Binary
+       * [Decimal to Binary](math/primer/decimal_to_binary.md)
 
