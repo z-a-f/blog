@@ -30,7 +30,15 @@ int isPrime(int num) {
 ```
 
 #### Java
-
+``` java
+public int isPrime(int num) {
+	int upperLimit = (int)(Math.sqrt(num));
+	for (int i = 2; i <= upperLimit; i++) {
+		if (i < num && num % i == 0) return 0;
+	}
+	return 1;
+}
+```
 #### Python
 
 ``` python
