@@ -53,5 +53,5 @@ def isPrime(self, num):
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
 
 <!--sec data-title="Solution" data-id="solution" data-show=false ces-->
-
+** Solutions coming up soon :)**
 <!--endsec-->
