@@ -16,7 +16,7 @@ Output: 1010
 <button class="section" target="approach" show="Show solution approach" hide="Hide solution approach"></button>
 
 <!--sec data-title="Solution Approach" data-id="approach" data-show=false ces-->
-** Solutions coming up soon :)**
+{% youtube %}https://youtu.be/4vNlt_EDw1Q{% endyoutube %}
 <!--endsec-->
 
 <!--endsec-->
