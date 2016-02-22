@@ -66,4 +66,5 @@
        * [Decimal to Binary](math/primer/decimal_to_binary.md)
        * [Factors](math/primer/factors.md)
        * [Sieve of Eratosthenes](math/primer/sieve_of_eratosthenes.md)
+       * Is Prime
 
