@@ -13,8 +13,6 @@ Output: 1010
 
 **Note:** for negative number, just return the minimum number of bits that would represent the 2's complement.
 
-
-
 <button class="section" target="approach" show="Show solution approach" hide="Hide solution approach"></button>
 
 <!--sec data-title="Solution Approach" data-id="approach" data-show=false ces-->
