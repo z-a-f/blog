@@ -3,16 +3,21 @@
 Given a number, find all its factors.
 
 <!--sec data-title="Example" data-id="example" data-show=true ces-->
+##### Input/Output:
 ```
 Input: 6
 Output: {1, 2, 3, 6}
 ```
 
-<button class="section" target="approach" show="Show solution approach" hide="Hide solution approach"></button>
+#### Solution Approach:
 
-<!--sec data-title="Solution Approach" data-id="approach" data-show=false ces-->
-{% youtube %}https://youtu.be/dolcMgiJ7I0{% endyoutube %}
+<button class="section" target="solapproach" show="Show solution approach" hide="Hide solution approach"></button>
+
 <!--endsec-->
+
+<!--sec data-title="Solution Approach" data-id="solapproach" data-show=false data-nopdf=true ces-->
+
+{% youtube %}https://youtu.be/dolcMgiJ7I0{% endyoutube %}
 
 <!--endsec-->
 
