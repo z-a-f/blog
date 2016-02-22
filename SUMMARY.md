@@ -65,5 +65,5 @@
        * [Find Bug 2](math/primer/find_bug_2.md)
        * [Decimal to Binary](math/primer/decimal_to_binary.md)
        * [Factors](math/primer/factors.md)
-       * Sieve of Eratosthenes
+       * [Sieve of Eratosthenes](math/primer/sieve_of_eratosthenes.md)
 
