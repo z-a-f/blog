@@ -2,8 +2,7 @@
 
 Given an integer, convert it to binary and return the result as a string. If the number is negative, return the 2's complement.
 
-### Example
-
+<!--sec data-title="Example" data-id="example" data-show=true ces-->
 ```
 Input: 6
 Output: '110'
@@ -16,10 +15,12 @@ Output: 1010
 
 
 
-<button class="section" target="approach" show="Show hint" hide="Hide hint"></button>
+<button class="section" target="approach" show="Show solution approach" hide="Hide solution approach"></button>
 
-<!--sec data-title="Hint" data-id="approach" data-show=false ces-->
+<!--sec data-title="Solution Approach" data-id="approach" data-show=false ces-->
 ** Solutions coming up soon :)**
+<!--endsec-->
+
 <!--endsec-->
 
 <button class="section" target="solution" show="Show solution" hide="Hide solution"></button>
