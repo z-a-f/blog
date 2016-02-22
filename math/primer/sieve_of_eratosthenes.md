@@ -1,7 +1,7 @@
 # Sieve of Eratosthenes
 
 Given a number, find all prime numbers upto the given number (inclusive).
-Make sure the returned values are sorted,
+Make sure the returned values are sorted.
 <!--sec data-title="Example" data-id="example" data-show=true ces-->
 ##### Input/Output:
 ```
