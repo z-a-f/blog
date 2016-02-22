@@ -1,6 +1,6 @@
 # Factors
 
-Given a number, find all its factors.
+Given a number, find all its factors. Return the factors (sorted).
 
 <!--sec data-title="Example" data-id="example" data-show=true ces-->
 ##### Input/Output:
